@@ -51,3 +51,5 @@ limitations under the License.
 [huawei-appgallery-link]:https://appgallery.cloud.huawei.com/ag/n/app/C104247923
 [releases-page]:https://github.com/adriangl/pict2cam/releases
 [android-11-google-restrictions]:https://developer.android.com/about/versions/11/behavior-changes-11#media-capture
+
+
